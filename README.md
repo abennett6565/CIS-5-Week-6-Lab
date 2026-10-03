@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 For your video, you must explain your logic for these two loops. Failure to do so will result in an incomplete assignment, which is a 0.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1mrZys0z_TokRLDq6J1hamLl_1BJGU9GX/view?usp=sharing
 
 
 ## What to build
@@ -39,7 +39,7 @@ Use `main.cpp`. Put your name in the file-top comment. The starter is only `main
 
 ## Environment
 
-VS 2022 · **GitHub Codespaces** · Replit · library machines
+**VSCode** · g++ · home PC
 
 ## Scope fence
 
